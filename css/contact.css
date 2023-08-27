@@ -118,6 +118,7 @@ form{
     font-size: 16px;
     border-radius: 50px;
     font-weight: bold;
+    transition: .3s background-color ease-in-out;
 }
 .button-form input:hover{
     background-color: #fff;
